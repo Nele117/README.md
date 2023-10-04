@@ -24,7 +24,7 @@ Here are some of the technologies and tools I work with:
 Let's connect and collaborate on exciting web projects! You can find me on:
 
 - 📧 Email: [contact@xdevs.pw]
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/xdevs/)
+- 💼 LinkedIn: [xDevs](https://www.linkedin.com/in/xdevs/)
 - 🌐 Portfolio: [xDevs](https://www.xdevs.pw/)
 
 ## 🚀 Projects
@@ -39,7 +39,7 @@ Feel free to explore my repositories to see more of my work!
 
 ## 🌱 Learning
 
-I'm always eager to learn and grow in the ever-evolving world of web development. Currently, I'm exploring [mention something you're currently learning].
+I'm always eager to learn and grow in the ever-evolving world of web development.
 
 ## 🤝 Let's Collaborate
 
